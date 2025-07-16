@@ -34,7 +34,7 @@ Some scripts require the [IRT toolbox](http://www.eecs.umich.edu/~fessler/irt/fe
 
 ### Download and install
 
-Download the code [here](https://github.com/Biomedical-Imaging-Group/mri-reconstruction/archive/refs/heads/main.zip) (~22 MB).
+Download the code [here](https://github.com/Biomedical-Imaging-Group/realistic-analytical-phantom/archive/refs/heads/main.zip) (~22 MB).
 
 Add the folder and subfolders in your matlab path. Some C++ sources are distributed with the code. To compile them as MEX binaries, simply run `make` in matlab prompt (make sure that you have a compiler installed using the mex setup).
 
