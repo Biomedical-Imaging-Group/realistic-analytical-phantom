@@ -4,7 +4,8 @@ Simulation tools for the validation of MRI reconstruction software.
 
 Written by [Matthieu Guerquin-Kern](mailto:guerquin-kern(AT)@crans(DOT).org) at the Biomedical Imaging Group (BIG), EPFL, Switzerland
 
-<p><img src="misc/brain176.png" width="176"/><img src="misc/brain176-error.png" width="176"/></p>
+<p style="background-color:#000000;text-align:center"><img src="meta/brain176.png" width="176"/><img src="meta/brain176-error.png" width="176"/></p>
+Links to the [SVG](meta/Brain.svg) (35.9 KB) and [PDF](meta/Brain.pdf) (44.4 KB) versions of the above brain phantom. 
 
 ## Outline
 
