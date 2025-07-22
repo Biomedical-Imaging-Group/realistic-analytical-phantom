@@ -50,7 +50,7 @@ To start with the code, you can run and look into [`demo.m`](demo.m). The files 
 
 ## Related Works
 
-Preliminary investigations have been conducted during two student projects achieved by Isik Karahanoğlu and Laurent Lejeune. A report on intermediate results was made at the ISBI 2010 conference.
+Preliminary investigations have been conducted during two student projects achieved by [Isik Karahanoğlu](http://web.archive.org/web/20210802054714/http://bigwww.epfl.ch/teaching/projects/abstracts/karahanoglu/) and [Laurent Lejeune](http://web.archive.org/web/20220120151740/http://bigwww.epfl.ch/teaching/projects/abstracts/lejeune/index2.html). A [report](http://web.archive.org/web/20200112113601/http://bigwww.epfl.ch/publications/guerquinkern1001.html) on intermediate results was made at the ISBI 2010 conference.
 
 Some functions of this package are used in an [other package](https://github.com/Biomedical-Imaging-Group/mri-reconstruction) oriented towards MRI simulation and reconstruction.
 
